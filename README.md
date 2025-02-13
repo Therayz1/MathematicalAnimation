@@ -21,3 +21,5 @@ https://github.com/user-attachments/assets/32122c81-d7cf-49bb-b625-4d08c4c90a48
 
 
 ### 📐 Kare Özellikleri ve İspatı
+
+https://github.com/user-attachments/assets/eca70fc1-b4c5-4654-a16e-e4c3e03f9888
