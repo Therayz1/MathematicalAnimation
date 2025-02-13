@@ -20,19 +20,4 @@ Geometri teoremleri, calculus görselleştirmeleri ve matematiksel ispatları an
 https://github.com/user-attachments/assets/32122c81-d7cf-49bb-b625-4d08c4c90a48
 
 
-## 🚀 Başlarken
-1. Manim kurulumu:
-```bash
-pip install manim
-
-
-**Kod:** [deltoid.py](deltoid.py)  
-**Çalıştırma Komutu:**
-```bash
-manim -pql deltoid.py DeltoidProof
-
----
-
-```bash
-# Çalıştırma komutu
-manim -pql dosya_adi.py ClassName
+### 📐 Kare Özellikleri ve İspatı
