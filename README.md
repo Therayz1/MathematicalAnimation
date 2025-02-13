@@ -8,8 +8,6 @@ Geometri teoremleri, calculus görselleştirmeleri ve matematiksel ispatları an
 
 ![](örnek-gif.gif) <!-- Varsa animasyon önizlemesi -->
 
-[![Deltoid Video Görseli](https://img.icons8.com/dusk/128/000000/kite.png)](https://github.com/Therayz1/MathematicalAnimation/raw/main/indir%20%282%29.mp4)  
-*Video indirmek için resme tıklayın - [MP4 Formatı](indir%20(2).mp4)*
 
 ## 📚 İçerikler
 - **Adım adım animasyonlu ispatlar** (Deltoid, Pisagor Teoremi vb.)
@@ -17,16 +15,16 @@ Geometri teoremleri, calculus görselleştirmeleri ve matematiksel ispatları an
 - Manim kodu örnekleri ve şablonlar
 - Eğitimciler için hazır animasyon paketleri
 
+### 📐 Deltoid Özellikleri ve İspatı
+
+https://github.com/user-attachments/assets/32122c81-d7cf-49bb-b625-4d08c4c90a48
+
+
 ## 🚀 Başlarken
 1. Manim kurulumu:
 ```bash
 pip install manim
 
-## 📚 Animasyon Kütüphanesi
-
-### 📐 Deltoid Özellikleri ve İspatı
-[![Deltoid Video Görseli](https://img.icons8.com/dusk/128/000000/kite.png)](https://github.com/Therayz1/MathematicalAnimation/raw/main/indir%20%282%29.mp4)  
-*Video indirmek için resme tıklayın - [MP4 Formatı](indir%20(2).mp4)*
 
 **Kod:** [deltoid.py](deltoid.py)  
 **Çalıştırma Komutu:**
