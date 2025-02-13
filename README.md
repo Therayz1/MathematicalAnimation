@@ -8,6 +8,9 @@ Geometri teoremleri, calculus görselleştirmeleri ve matematiksel ispatları an
 
 ![](örnek-gif.gif) <!-- Varsa animasyon önizlemesi -->
 
+[![Deltoid Video Görseli](https://img.icons8.com/dusk/128/000000/kite.png)](https://github.com/Therayz1/MathematicalAnimation/raw/main/indir%20%282%29.mp4)  
+*Video indirmek için resme tıklayın - [MP4 Formatı](indir%20(2).mp4)*
+
 ## 📚 İçerikler
 - **Adım adım animasyonlu ispatlar** (Deltoid, Pisagor Teoremi vb.)
 - **STEM eğitimi** için görsel kaynaklar
