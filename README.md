@@ -18,3 +18,27 @@ Geometri teoremleri, calculus görselleştirmeleri ve matematiksel ispatları an
 1. Manim kurulumu:
 ```bash
 pip install manim
+
+# 🎥 Matematik Animasyonları - Manim Projesi
+
+[...Önceki header ve kurulum bilgileri aynen kalabilir...]
+
+## 📚 Animasyon Kütüphanesi
+
+### 📐 Deltoid 
+[![Deltoid İspat Animasyonu](https://img.youtube.com/vi/4KKvqso2SsQ/0.jpg)](https://youtu.be/4KKvqso2SsQ)  
+*Kodu görüntüle: [deltoid.py](MathematicalAnimation/deltoid.py)*
+
+---
+
+### ➕ Yeni Başlık Şablonu (Kopyala-Yapıştır)
+<!-- Yeni konu eklerken bu yapıyı kullanın -->
+<details>
+<summary><b>📌 BAŞLIK_ADI (Tıklayarak genişlet)</b></summary>
+
+[![VIDEO_BASLIGI](VIDEO_THUMBNAIL_LINK)](YOUTUBE_LINK)  
+*Açıklama ve ek bilgiler*
+
+```bash
+# Çalıştırma komutu
+manim -pql dosya_adi.py ClassName
