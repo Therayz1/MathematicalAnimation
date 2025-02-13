@@ -18,11 +18,17 @@ Geometri teoremleri, calculus görselleştirmeleri ve matematiksel ispatları an
 1. Manim kurulumu:
 ```bash
 pip install manim
+
 ## 📚 Animasyon Kütüphanesi
 
-### 📐 Deltoid 
-[![Deltoid İspat Animasyonu](https://img.youtube.com/vi/4KKvqso2SsQ/0.jpg)](https://youtu.be/4KKvqso2SsQ)  
-*Kodu görüntüle: [deltoid.py](MathematicaAnimation/deltoid.py)*
+### 📐 Deltoid Özellikleri ve İspatı
+[![Deltoid Video Görseli](https://img.icons8.com/dusk/128/000000/kite.png)](https://github.com/Therayz1/MathematicalAnimation/raw/main/indir%20%282%29.mp4)  
+*Video indirmek için resme tıklayın - [MP4 Formatı](indir%20(2).mp4)*
+
+**Kod:** [deltoid.py](deltoid.py)  
+**Çalıştırma Komutu:**
+```bash
+manim -pql deltoid.py DeltoidProof
 
 ---
 
